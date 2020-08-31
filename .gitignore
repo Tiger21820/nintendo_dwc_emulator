@@ -231,3 +231,6 @@ tools/data/*
 *.db
 *.db-journal
 test*.py
+.private/*
+logs/*
+adminpageconf.json
