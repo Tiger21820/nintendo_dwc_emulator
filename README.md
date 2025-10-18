@@ -1,4 +1,4 @@
-dwc_network_server_emulator   i
+dwc_network_server_emulator   
 ===========================
   
 A Nintendo DS and Wii online multiplayer server emulator.
